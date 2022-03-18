@@ -1,4 +1,0 @@
-<!DOCTYPE html>
-<html> 
-<title>Добрый день! Я начинающий тестеровщик.</title>
-</html>
